@@ -1,6 +1,8 @@
 # MatMulAlgorithms
 
 [![Build Status](https://github.com/putianyi889/MatMulAlgorithms.jl/actions/workflows/CI.yml/badge.svg?branch=master)](https://github.com/putianyi889/MatMulAlgorithms.jl/actions/workflows/CI.yml?query=branch%3Amaster)
+[![](https://img.shields.io/badge/docs-stable-blue.svg)](https://putianyi889.github.io/MatMulAlgorithms.jl/stable)
+[![](https://img.shields.io/badge/docs-dev-blue.svg)](https://putianyi889.github.io/MatMulAlgorithms.jl/dev)
 
 The generic routine provided by Julia Base is naive and slow. This package provides a collection of fast matrix multiplication routines that excel in certain cases.
 
