@@ -11,7 +11,7 @@ Octavian = "6fd5a793-0b7e-452c-907f-f8bfe9c57db4"
 
 [compat]
 Gaius = "0.6.8"
-LinearAlgebra = "1.12.0"
+LinearAlgebra = "1"
 LoopVectorization = "0.12"
 Octavian = "0.3.29"
 Random = "1"
