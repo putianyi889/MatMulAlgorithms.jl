@@ -1,0 +1,5 @@
+# APIs
+
+```@autodocs
+Modules = [MatMulAlgorithms]
+```
